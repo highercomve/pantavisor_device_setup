@@ -1,0 +1,65 @@
+[
+  {
+    "module": "sdo_sys",
+    "msg": "filedesc",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "ph_autojointoken_name"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "write",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "ph_autojointoken_value"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "filedesc",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "ph_meta_name"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "write",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "ph_meta_value"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "filedesc",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "ph_api_host_name"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "write",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "ph_api_host_value"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "filedesc",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "download_script_name"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "write",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "download_script_content"
+  },
+  {
+    "module": "sdo_sys",
+    "msg": "exec",
+    "valueLen": -1,
+    "enc": "base64",
+    "valueId": "download_script_cmd"
+  }
+]
