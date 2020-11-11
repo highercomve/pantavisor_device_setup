@@ -46,20 +46,20 @@
     "msg": "filedesc",
     "valueLen": -1,
     "enc": "base64",
-    "valueId": "download_script_name"
+    "valueId": "dl_name"
   },
   {
     "module": "sdo_sys",
     "msg": "write",
     "valueLen": -1,
     "enc": "base64",
-    "valueId": "download_script_content"
+    "valueId": "dl.sh"
   },
   {
     "module": "sdo_sys",
     "msg": "exec",
     "valueLen": -1,
     "enc": "base64",
-    "valueId": "download_script_cmd"
+    "valueId": "dl_cmd"
   }
 ]
